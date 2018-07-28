@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/7/27 16:01:19。
+     1>项目“c:\Users\13016\documents\visual studio 2015\Projects\s0727\s0727\s0727.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\游戏\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\s0727.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt s0727.cpp
+         s0727.cpp
+     1>c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(5): warning C4627: “#include "stdlib.h"”: 在查找预编译头使用时跳过
+         c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(5): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(6): warning C4627: “#include "string.h"”: 在查找预编译头使用时跳过
+         c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(6): note: 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(15): error C3861: “strlen”: 找不到标识符
+     1>c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(18): error C2440: “=”: 无法从“const char *”转换为“char *”
+         c:\users\13016\documents\visual studio 2015\projects\s0727\s0727\s0727.cpp(18): note: 转换丢失限定符
+     1>已完成生成项目“c:\Users\13016\documents\visual studio 2015\Projects\s0727\s0727\s0727.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.41
